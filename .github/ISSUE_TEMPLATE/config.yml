@@ -6,3 +6,9 @@ contact_links:
   - name: Update an extractor (dnif / extractors)
     url: https://github.com/dnif-backyard/dnif-extractors/issues/new?template=update_extractor.md
     about: Request an update to an existing extractor
+  - name: New detection analytic (dnif / threat-detection)
+    url: https://github.com/dnif-backyard/dnif-threat-detection/issues/new?template=new_analytic.md
+    about: Request a new detection analytic
+  - name: Update a detection analytic (dnif / threat-detection)
+    url: https://github.com/dnif-backyard/dnif-threat-detection/issues/new?template=update_analytic.md
+    about: Request an update to an analytic
