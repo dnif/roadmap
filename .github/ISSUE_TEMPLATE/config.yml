@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: New extractor (dnif / extractors)
+    url: https://github.com/dnif-backyard/dnif-extractors/issues/new?template=new_extractor.md
+    about: Request a new extractor
+  - name: Update an extractor (dnif / extractors)
+    url: https://github.com/dnif-backyard/dnif-extractors/issues/new?template=update_extractor.md
+    about: Request an update to an existing extractor
